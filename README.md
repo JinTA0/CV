@@ -1,6 +1,4 @@
-# Welcome to Jin's Homepage
-
-# *Jin* TAO
+# Jin **TAO**
 
 E-mail: <r06525091@ntu.edu.tw>
 
@@ -16,11 +14,11 @@ No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
-**M.S. in Engineering Science and Ocean Engineering, National Taiwan University**
+**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University](http://www.ntu.edu.tw)**
 
 Supervisor: Prof. Hsin-Haou Huang
 
-**B.Eng. in Naval Architecture and Marine Engineering, Wuhan University of Technology**
+**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology](http://www.whut.edu.cn)**
 
 ***
 
@@ -37,7 +35,7 @@ Supervisor: Prof. Hsin-Haou Huang
 Computer Skills:
 
 ```markdown
-Matlab, C, 
+Matlab, C, Markdown, Python
 Paper/report writing and presentation with `Microsoft Office` and `Endnote`
 ```
 
