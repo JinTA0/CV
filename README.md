@@ -2,8 +2,8 @@
 
 ## JIN TAO
 
-r06525091@ntu.edu.tw
-+886-0905678004
+E-mail: r06525091@ntu.edu.tw
+Tel: +886-0905678004
 
 ## EDUCATION
 
