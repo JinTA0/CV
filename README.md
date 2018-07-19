@@ -10,7 +10,7 @@ Department of Engineering Science and Ocean Engineering
 
 National Taiwan University
 
-No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
+No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan ![myself]()
 
 ***
 
@@ -41,4 +41,3 @@ Matlab, C,
 Paper/report writing and presentation with `Microsoft Office` and `Endnote`
 ```
 
-[TOC]
