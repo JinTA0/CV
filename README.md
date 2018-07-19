@@ -1,6 +1,9 @@
 # Welcome to Jin's Homepage
 
-# JIN TAO
+# Jin **TAO**
+
+<div align=center>
+![myself](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
 
 E-mail: r06525091@ntu.edu.tw
 
@@ -11,9 +14,6 @@ Department of Engineering Science and Ocean Engineering
 National Taiwan University
 
 No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan 
-
-<div align=center>
-![myself](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
 
 ***
 
