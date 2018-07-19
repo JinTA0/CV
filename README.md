@@ -2,7 +2,7 @@
 
 # Jin **TAO**
 
-![myselfie](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg width=20% height=20% div align=right /)
+<width=20% height=20% div align=right>![myselfie](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
 
 E-mail: r06525091@ntu.edu.tw
 
