@@ -14,11 +14,11 @@ No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
-**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University](http://www.ntu.edu.tw)** `2019`
+**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University](http://www.ntu.edu.tw)** `2017 - 2019`
 
 Supervisor: Prof. Hsin-Haou Huang
 
-**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology](http://www.whut.edu.cn)** `2015`
+**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology](http://www.whut.edu.cn)** `2011 - 2015`
 
 The academic track of Ship Design and Structural Mechanics
 
