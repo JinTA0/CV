@@ -1,10 +1,10 @@
 # Welcome to Jin's Homepage
 
-# Jin **TAO**
+# *Jin* TAO
 
 E-mail: <r06525091@ntu.edu.tw>
 
-Tel: +886-0905678004
+Phone: [+886-0905678004](tel://+886-0905678004)
 
 Department of Engineering Science and Ocean Engineering
 
