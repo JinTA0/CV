@@ -20,9 +20,18 @@ Supervisor: Prof. Hsin-Haou Huang
 
 ## RESEARCH EXPERIENCE
 
+
+
 ## WORK EXPERIENCE
 
 ## SKILLS
+
+Computer Skills:
+
+```markdown
+Matlab, C, 
+Paper/report writing and presentation with **Microsoft Office** and **Endnote**
+```
 
 You can use the [editor on GitHub](https://github.com/JinTA0/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
