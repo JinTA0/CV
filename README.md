@@ -42,6 +42,10 @@ Thesis: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ***
 
+## EXTRA-CURRICULAR ACTIVITIES
+
+***
+
 ## SKILLS
 
 Computer Skills:
@@ -50,21 +54,15 @@ Computer Skills:
 Matlab, C, Markdown, Python
 Paper/report writing and presentation with `Microsoft Office` and `Endnote`
 ```
+Language 
 
-## Education
+professional
 
-### __Columbia University__ `2016.9 - Present`
-```
-New York, NY
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+***
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+## HOBBIES
+
+- Cycling 
+- Photography
+
+***
