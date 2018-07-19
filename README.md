@@ -10,7 +10,10 @@ Department of Engineering Science and Ocean Engineering
 
 National Taiwan University
 
-No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan ![myself](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
+No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan 
+
+<div align=center>
+![myself](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
 
 ***
 
