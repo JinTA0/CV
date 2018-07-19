@@ -2,9 +2,7 @@
 
 # Jin **TAO**
 
-<width=20% height=20% div align=right>![myselfie](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
-
-E-mail: r06525091@ntu.edu.tw
+E-mail: <r06525091@ntu.edu.tw>
 
 Tel: +886-0905678004
 
