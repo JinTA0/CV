@@ -8,6 +8,13 @@ Tel: +886-0905678004
 
 ## EDUCATION
 
+
+M.S. in Engineering Science and Ocean Engineering, National Taiwan University                            2017 to now
+
+Supervisor: Prof. Hsin-Haou Huang
+
+B.Eng. in Naval Architecture and Marine Engineering, Wuhan University of Technology                      2011 - 2015  
+
 ## RESEARCH EXPERIENCE
 
 ## WORK EXPERIENCE
