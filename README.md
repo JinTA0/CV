@@ -1,6 +1,6 @@
-## Welcome to Jin's Homepage
+# Welcome to Jin's Homepage
 
-## JIN TAO
+# JIN TAO
 
 E-mail: r06525091@ntu.edu.tw
 
@@ -8,7 +8,7 @@ Tel: +886-0905678004
 
 Address: Department of Engineering Science and Ocean Engineering
 National Taiwan University
-No.1, Sec. 4, Roosevelt Rd.,Daan Dist., Taipei City 106, Taiwan
+No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
@@ -30,7 +30,7 @@ Computer Skills:
 
 ```markdown
 Matlab, C, 
-Paper/report writing and presentation with ***Microsoft Office*** and ***Endnote***
+Paper/report writing and presentation with **Microsoft Office** and **Endnote**
 ```
 
 You can use the [editor on GitHub](https://github.com/JinTA0/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
