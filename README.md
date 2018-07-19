@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Jin's Homepage
+
+## JIN TAO
+
+r06525091@ntu.edu.tw
++886-0905678004
+
+## EDUCATION
+
+## RESEARCH EXPERIENCE
+
+## WORK EXPERIENCE
+
+## SKILLS
 
 You can use the [editor on GitHub](https://github.com/JinTA0/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
