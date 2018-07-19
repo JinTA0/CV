@@ -4,6 +4,7 @@
 
 <div align=center>
 ![myself](https://raw.githubusercontent.com/JinTA0/CV/master/PHOTO.jpg)
+</div>
 
 E-mail: r06525091@ntu.edu.tw
 
