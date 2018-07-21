@@ -42,7 +42,9 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## RESEARCH EXPERIENCE
 
-**National Taiwan University** 
+**National Taiwan University**  Taipei, Taiwan ```2017 to now```
+
+**
 
 ***
 
@@ -56,17 +58,13 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## SKILLS
 
-__Computer Skills__
+Competent in MATLAB and am also familiar with Python and C for research purposes
 
-Matlab, C, Markdown, Python
+Experience of AutoCAD and SolidWorks; used FEA software Abaqus and COMSOL Multiphysics
 
-Proficient in the use of Microsoft Office, including Word, Excel and PowerPoint
 Paper/report writing and presentation with Microsoft Office and Endnote
 
-__Language Proficiency__
-
-CET-6
-professional
+Language: Mandarin(mother tongue), English(fluent，participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014)
 
 ***
 
