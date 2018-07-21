@@ -38,11 +38,11 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## WORK AND INTERNSHIP EXPERIENCE
 
-**China Construction Third Engineering Bureau Co. Ltd.**   Wuhan, China  
-**Technician**
+**China Construction Third Engineering Bureau Co. Ltd. - _Technician_**  Wuhan, China  ```2015 to 2017```
 
-**Ningbo Ship Design & Research Center Co., Ltd.**         Ningbo, China  
-**Intern (Structural)**
+
+**Ningbo Ship Design & Research Center Co. Ltd. - _Intern_**         Ningbo, China  ```2015```
+
 
 
 ***
