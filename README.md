@@ -1,6 +1,7 @@
 # **<center>Jin TAO</center>**
 
-<center>E-mail: <r06525091@ntu.edu.tw>  Phone: [+886-0905678004](tel://+886-0905678004)</center>  
+E-mail: <r06525091@ntu.edu.tw>  
+Phone: [+886-0905678004](tel://+886-0905678004)  
 Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ***
