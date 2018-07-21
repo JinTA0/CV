@@ -1,14 +1,10 @@
-# Jin **TAO**
+# Jin **TAO**<center>诶嘿</center>
 
-E-mail: <r06525091@ntu.edu.tw>
-
-Phone: [+886-0905678004](tel://+886-0905678004)
-
-Department of Engineering Science and Ocean Engineering
-
-National Taiwan University
-
-No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan 
+E-mail: <r06525091@ntu.edu.tw>  
+Phone: [+886-0905678004](tel://+886-0905678004)  
+Department of Engineering Science and Ocean Engineering  
+National Taiwan University  
+No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ***
 
