@@ -36,17 +36,17 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 - Evolutionary Algorithms and Metaheuristics
 
-- Machine learning and Data-mining
+- Machine Learning and Data-mining
 
 ***
 
 ## RESEARCH EXPERIENCE
 
-
+**National Taiwan University** 
 
 ***
 
-## WORK EXPERIENCE
+## WORK AND INTERNSHIP EXPERIENCE
 
 ***
 
@@ -56,14 +56,16 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## SKILLS
 
-Computer Skills:
+__Computer Skills__
 
-```markdown
 Matlab, C, Markdown, Python
-Paper/report writing and presentation with `Microsoft Office` and `Endnote`
-```
-Language 
 
+Proficient in the use of Microsoft Office, including Word, Excel and PowerPoint
+Paper/report writing and presentation with Microsoft Office and Endnote
+
+__Language Proficiency__
+
+CET-6
 professional
 
 ***
