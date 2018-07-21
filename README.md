@@ -42,17 +42,28 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## RESEARCH EXPERIENCE
 
-**National Taiwan University**  Taipei, Taiwan ```2017 to now```
+**National Taiwan University**        Taipei, Taiwan                            *2017 to now*</div>
+**Research Assistant**
 
-**
+**Wuhan University of Technology**    Wuhan, China                              *2012 to 2014*
 
 ***
 
 ## WORK AND INTERNSHIP EXPERIENCE
 
+**China Construction Third Engineering Bureau Co. Ltd.**   Wuhan, China   
+
+**Technician**
+
+**Ningbo Ship Design & Research Center Co., Ltd.**         Ningbo, China 
+**Intern (Structural)**
+
+
 ***
 
 ## EXTRA-CURRICULAR ACTIVITIES
+
+**Wuhan University of Technology** 
 
 ***
 
