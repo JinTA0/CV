@@ -18,17 +18,25 @@ No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 Supervisor: Prof. Hsin-Haou Huang
 
+Thesis Topic: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
+
 **B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology](http://www.whut.edu.cn)**
 
 The academic track of Ship Design and Structural Mechanics
 
 Supervisor: Prof. Shuangxi Xu
 
-Thesis: Structural Design and Strength Analysis of 46m Stern Raft Trawler
+Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ***
 
 ## RESEARCH INTERESTS
+
+- Many and Multi-objective Optimization
+
+- Evolutionary Algorithms and Metaheuristics
+
+- Machine learning and Data-mining
 
 ***
 
