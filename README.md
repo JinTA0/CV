@@ -55,10 +55,10 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## SKILLS
 
-Competent in MATLAB and am also familiar with Python and C for research purposes  
-Experience of AutoCAD and SolidWorks; used FEA software Abaqus and COMSOL Multiphysics  
-Paper/report writing and presentation with Microsoft Office and Endnote  
-Language: Mandarin(mother tongue), English(fluent，participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014)
+- Competent in MATLAB and am also familiar with Python and C for research purposes  
+- Experience of AutoCAD and SolidWorks; used FEA software Abaqus and COMSOL Multiphysics  
+- Paper/report writing and presentation with Microsoft Office and Endnote  
+- Language: English(fluent，participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014)
 
 ***
 
@@ -68,5 +68,3 @@ Language: Mandarin(mother tongue), English(fluent，participated in CET-6 with a
 - Photography
 
 ***
-
-pandoc -o hello.docx hello.md
