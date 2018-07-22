@@ -64,7 +64,8 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## HOBBIES
 
-- Cycling 
-- Photography
+- I enjoy cycling and was a member of the WHUT bicycle Club. The latter involved organizing activities, such as long distance riding，for example, I cycled from Chengdu to Lhasa in 2014, which is a great challenge for my perseverance and courage. 
+- I have great interest in photography which is a good way to share perspective and capture a memory forever.
+- I also enjoy current affairs and traveling.
 
 ***
