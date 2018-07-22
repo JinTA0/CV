@@ -69,6 +69,12 @@ _Officer of News Department_ ```2012-2013```
 
 ***
 
+## PUBLICATIONS
+
+-KONG X.S., __TAO J.__, et al,"Research on protective effect of guarding fluid cabin under attacking by explosion fragments", __Journal of Ship Mechanics__,18.8(2014):996-1004
+
+***
+
 ## HOBBIES
 
 - I enjoy cycling and was a member of the WHUT Bicycle Club. The latter involved organizing activities, such as long distance riding，for example, I cycled from Chengdu to Lhasa in 2014, which is a great challenge for my perseverance and courage. 
