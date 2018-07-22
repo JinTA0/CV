@@ -8,11 +8,11 @@ Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
-**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University(NTU)](http://www.ntu.edu.tw)**  
+**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University (NTU)](http://www.ntu.edu.tw)**  
 Supervisor: Prof. Hsin-Haou Huang  
 Thesis Topic: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
 
-**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology(WHUT)](http://www.whut.edu.cn)**  
+**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology (WHUT)](http://www.whut.edu.cn)**  
 The academic track of Ship Design and Structural Mechanics  
 Supervisor: Prof. Shuangxi Xu  
 Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
@@ -49,8 +49,14 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-**WHUT Student Union** 
-Vice Prisident ```2013-2014```
+**WHUT Student Union**  
+_Vice Prisident_ ```2013-2014```   
+  
+  
+  
+
+_Officer of News Department_ ```2012-2013```   
+
 
 ***
 
