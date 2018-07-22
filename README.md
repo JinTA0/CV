@@ -8,11 +8,11 @@ Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
-**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University](http://www.ntu.edu.tw)**  
+**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University(NTU)](http://www.ntu.edu.tw)**  
 Supervisor: Prof. Hsin-Haou Huang  
 Thesis Topic: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
 
-**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology](http://www.whut.edu.cn)**  
+**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology(WHUT)](http://www.whut.edu.cn)**  
 The academic track of Ship Design and Structural Mechanics  
 Supervisor: Prof. Shuangxi Xu  
 Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
@@ -49,7 +49,8 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-**Wuhan University of Technology** 
+**WHUT Student Union** 
+Vice Prisident ```2013-2014```
 
 ***
 
@@ -64,7 +65,7 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## HOBBIES
 
-- I enjoy cycling and was a member of the WHUT bicycle Club. The latter involved organizing activities, such as long distance riding，for example, I cycled from Chengdu to Lhasa in 2014, which is a great challenge for my perseverance and courage. 
+- I enjoy cycling and was a member of the WHUT Bicycle Club. The latter involved organizing activities, such as long distance riding，for example, I cycled from Chengdu to Lhasa in 2014, which is a great challenge for my perseverance and courage. 
 - I have great interest in photography which is a good way to share perspective and capture a memory forever.
 - I also enjoy current affairs and traveling.
 
