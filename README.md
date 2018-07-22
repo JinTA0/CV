@@ -71,7 +71,7 @@ _Officer of News Department_ ```2012-2013```
 
 ## PUBLICATIONS
 
--KONG X.S., __TAO J.__, et al,"Research on protective effect of guarding fluid cabin under attacking by explosion fragments", __Journal of Ship Mechanics__,18.8(2014):996-1004
+- KONG X. S., __TAO J.__, et al,"Research on protective effect of guarding fluid cabin under attacking by explosion fragments", __Journal of Ship Mechanics__,18.8(2014):996-1004
 
 ***
 
