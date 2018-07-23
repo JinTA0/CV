@@ -49,7 +49,8 @@ Supervisor: Prof. Shuangxi Xu
 **Teaching Assistant, Theory of Structures** ```Feb 2018 - Jun 2018```  
 *College of Engineering, National Taiwan University*  
 - Prepared lectures and class activities focusing on the analysis of determinate and indeterminate structures for 26 junior and senior level undergraduates.  
-- Created and graded course assessments to ensure students understood material and stayed on track.
+- Created and graded course assessments to ensure students understood material and stayed on track.  
+- Worked with professors to revise course syllabus, created midterm and final exams, and writing assignments.
 
 __Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```  
 *China Construction Third Engineering Bureau Co. Ltd.* Wuhan, China  
@@ -59,9 +60,9 @@ __Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```
 
 **Intern** ```Jan 2015 - Jun 2015```  
 *Ningbo Ship Design & Research Center Co. Ltd.* Ningbo, China  
-- 
-- 
-- Completed graduation project of structural design and strength analysis through finite element method of 46m Stern Trawler.  
+- Obtained understanding about the whole design process of shipbuilding include details design and construction design, familiar with relevant industry regulations.  
+- Compiled resource book about need for ships operating in polar waters to aid in project design.  
+- Completed graduation project of structural design with AutoCAD and strength analysis with Patran through finite element method of 46m Stern Trawler.
 
 ***
 
@@ -69,13 +70,13 @@ __Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```
 
 **WHUT Student Union**  
 _Vice Prisident_ ```2013-2014```  
-- 
-- 
+- Managed the financial affairs, regulations, meetings and news reporting of Student Union.  
+- Provided services in various campus events such as New Year’s Concert, Welcome Party for the Freshman, Graduation Ceremony, Conferences and Training.  
 - 
 
-_Officer of News Department_ ```2012-2013```   
-- 
-- 
+_Officer of News Department_ ```2012-2013```  
+- Responsible for news reporting and editing, training of new commissioners.  
+- Served as senior editor of WHUT Youth website, responsible for reviewing news.  
 - Spearheaded efforts on website design, article evaluation criteria and social media outreach.
 
 ***
