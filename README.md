@@ -23,9 +23,7 @@ Supervisor: Prof. Shuangxi Xu
 
 ## RESEARCH INTERESTS
 
-- Many and Multi-objective Optimization  
-- Evolutionary Algorithms and Metaheuristics  
-- Machine Learning and Data-mining
+My current research centres around the Multi-objective Optimization Evolutionary Computation and its applications, especially improving the performance of Genetic Algorithms to solve difficult and mutimodal problems.
 
 ***
 
@@ -39,8 +37,9 @@ Supervisor: Prof. Shuangxi Xu
 
 **Undergraduate Research Assistant** ```2012 to 2014```  
 *Wuhan University of Technology* Wuhan, China  
+- Research on Protective Effect of Guarding Fluid Cabin under Attacking by Explosion Fragments under supervision of Dr. KONG Xiangshao in 2013-2014.
 - 
-- 
+- Productive Process Simulation of Shipyard Based on DELMIA under supervision of Prof. ZHENG Shaochun in 2012-2013.
 - 
 
 ***
@@ -53,14 +52,14 @@ Supervisor: Prof. Shuangxi Xu
 - Created and graded course assessments to ensure students understood material and stayed on track.  
 - Worked with professors to revise course syllabus, created midterm and final exams, and writing assignments.
 
-__Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```  
-*China Construction Third Engineering Bureau Co. Ltd.* Wuhan, China  
+**Technician (Structural Engineering)** ```Aug 2015 - Jun 2017```  
+*China Construction Third Engineering Bureau Co. Ltd.* ```Wuhan, China```  
 - Cooperated with technical team and share information across the organisation.  
 - Diagnosed errors or technical problems and determine proper solutions.  
 - Produced timely and detailed service reports.
 
 **Intern** ```Jan 2015 - Jun 2015```  
-*Ningbo Ship Design & Research Center Co. Ltd.* Ningbo, China  
+*Ningbo Ship Design & Research Center Co. Ltd.* ```Ningbo, China```  
 - Obtained understanding about the whole design process of shipbuilding include details design and construction design, familiar with relevant industry regulations.  
 - Compiled resource book about need for ships operating in polar waters to aid in project design.  
 - Completed graduation project of structural design with AutoCAD and strength analysis with Patran through finite element method of 46m Stern Trawler.
@@ -72,9 +71,8 @@ __Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```
 **WHUT Student Union**  
 _Vice Prisident_ ```2013-2014```  
 - Managed the financial affairs, regulations, meetings and news reporting of Student Union.  
-- Provided services in various campus events such as New Year’s Concert, Welcome Party for the Freshman, Graduation Ceremony, Conferences and Training.  
-- 
-
+- Organized and provided services in various campus events such as New Year’s Concert, Welcome Party for the Freshman, Graduation Ceremony, Conferences and Training.  
+- Established the new media department for the Student Union to provide immediate news report on social media platforms.  
 _Officer of News Department_ ```2012-2013```  
 - Responsible for news reporting and editing, training of new commissioners.  
 - Served as senior editor of WHUT Youth website, responsible for reviewing news.  
