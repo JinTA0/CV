@@ -33,10 +33,13 @@ Supervisor: Prof. Shuangxi Xu
 
 **Research Assistant** ```Sep 2017 - Present```  
 *National Taiwan University*  Taipei, Taiwan  
-
+- Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.
+- Conducted extensive data analysis via MatLab
+-
 
 **Undergraduate Research Assistant** ```2012 to 2014```  
 *Wuhan University of Technology* Wuhan, China  
+- 
 
 
 ***
@@ -65,13 +68,15 @@ __Technician (Structural Engineering)__ ```Aug 2015 - Jun 2017```
 ## EXTRA-CURRICULAR ACTIVITIES
 
 **WHUT Student Union**  
-_Vice Prisident_ ```2013-2014```   
-  
-  
-  
+_Vice Prisident_ ```2013-2014```  
+- 
+- 
+- 
 
 _Officer of News Department_ ```2012-2013```   
-
+- 
+- 
+- Spearheaded efforts on website design, article evaluation criteria and social media outreach.
 
 ***
 
