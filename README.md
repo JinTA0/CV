@@ -2,7 +2,7 @@
 
 E-mail: <r06525091@ntu.edu.tw>  
 Phone: [+886-0905678004](tel://+886-0905678004)  
-Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
+Address: No.1, Sec. 4, Roosevelt Rd., Daan Dist., Taipei City 106, Taiwan
 
 ***
 
@@ -41,7 +41,7 @@ My current research centres around the Multi-objective Optimization Evolutionary
 **Undergraduate Research Assistant** ```2012 to 2014```  
 *School of Transportation, Wuhan University of Technology* ```Wuhan, China```  
 - Research on Protective Effect of Guarding Fluid Cabin under Attacking by Explosion Fragments under supervision of Prof. KONG Xiangshao in 2013-2014.
-- Analysed data and wrote reports based upon results of theoretical calculation and experimentation.
+- Analyzed data and wrote reports based upon results of theoretical calculation and experimentation.
 - Production Process Simulation of Shipyard Based on DELMIA under supervision of Prof. ZHENG Shaochun in 2012-2013.
 - Studied and used Catia for design of parts and prototypes and DELMIA for manufacturing simulation.
 
@@ -72,7 +72,7 @@ My current research centres around the Multi-objective Optimization Evolutionary
 ## EXTRA-CURRICULAR ACTIVITIES
 
 **WHUT Student Union**  
-*Vice Prisident* ```2013-2014```  
+*Vice President* ```2013-2014```  
 - Managed the financial affairs, regulations, meetings and news reporting of Student Union.  
 - Organized and provided services in various campus events such as New Year’s Concert, Welcome Party for the Freshman, Graduation Ceremony, Conferences and Training.  
 - Established the new media department for the Student Union to provide immediate news report on social media platforms.  
