@@ -8,14 +8,16 @@ Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 
 ## EDUCATION
 
-**M.S. in Engineering Science and Ocean Engineering, [National Taiwan University (NTU)](http://www.ntu.edu.tw)**  
+**M.S. in Engineering Science and Ocean Engineering, ```2017 - Present```  
+[National Taiwan University (NTU)](http://www.ntu.edu.tw)**  
 Supervisor: Prof. Hsin-Haou Huang  
-Thesis Topic: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
+*Thesis Topic*: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
 
-**B.Eng. in Naval Architecture and Marine Engineering, [Wuhan University of Technology (WHUT)](http://www.whut.edu.cn)**  
+**B.Eng. in Naval Architecture and Marine Engineering, ```2011 - 2015```  
+[Wuhan University of Technology (WHUT)](http://www.whut.edu.cn)**  
 The academic track of Ship Design and Structural Mechanics  
 Supervisor: Prof. Shuangxi Xu  
-Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
+*Thesis Title*: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ***
 
@@ -29,7 +31,7 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## RESEARCH EXPERIENCE
 
-**National Taiwan University - _Research Assistant_**   Taipei, Taiwan ```2017 to now```  
+**National Taiwan University - _Research Assistant_**   Taipei, Taiwan ```Sep 2017 - Present```  
 
 
 **Wuhan University of Technology**    Wuhan, China  ```2012 to 2014```  
@@ -38,10 +40,15 @@ Thesis Title: Structural Design and Strength Analysis of 46m Stern Raft Trawler
 
 ## WORK AND INTERNSHIP EXPERIENCE
 
-**China Construction Third Engineering Bureau Co. Ltd. - _Technician_**  Wuhan, China  ```2015 to 2017```
+**Teaching Assistant, Theory of Structures** ```Feb 2018 - Jun 2018```  
+*College of Engineering, National Taiwan University*  
+- Prepared lectures and class activities focusing on the analysis of determinate and indeterminate structures for 26 junior and senior level undergraduates.  
+- Created and graded course assessments to ensure students understood material and stayed on track.
+
+**China Construction Third Engineering Bureau Co. Ltd. - _Technician_**  Wuhan, China  ```2015 - 2017```
 
 
-**Ningbo Ship Design & Research Center Co. Ltd. - _Intern_**         Ningbo, China  ```2015```
+**Ningbo Ship Design & Research Center Co. Ltd. - _Intern_**         Ningbo, China  ```Jan 2015 - Jun 2015```
 
 
 
@@ -65,7 +72,7 @@ _Officer of News Department_ ```2012-2013```
 - Competent in MATLAB and am also familiar with Python and C for research purposes  
 - Experience of AutoCAD and SolidWorks; used FEA software Abaqus and COMSOL Multiphysics  
 - Paper/report writing and presentation with Microsoft Office and Endnote  
-- Language: English(fluent，participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014)
+- Language: English(fluent, participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014)
 
 ***
 
