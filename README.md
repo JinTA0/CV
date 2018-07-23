@@ -33,9 +33,9 @@ Supervisor: Prof. Shuangxi Xu
 
 **Research Assistant** ```Sep 2017 - Present```  
 *National Taiwan University*  Taipei, Taiwan  
-- Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.
-- Conducted extensive data analysis via MatLab
--
+- Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.  
+- Conducted extensive data analysis via MatLab  
+- 
 
 **Undergraduate Research Assistant** ```2012 to 2014```  
 *Wuhan University of Technology* Wuhan, China  
@@ -103,3 +103,5 @@ _Officer of News Department_ ```2012-2013```
 - I also enjoy current affairs and traveling.
 
 ***
+
+<p align="right">Last updated: 23 Jul 2018</p>
