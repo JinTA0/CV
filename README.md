@@ -30,13 +30,13 @@ My current research centres around the Multi-objective Optimization Evolutionary
 ## RESEARCH EXPERIENCE
 
 **Research Assistant** ```Sep 2017 - Present```  
-*National Taiwan University*  Taipei, Taiwan  
+*National Taiwan University*  ```Taipei, Taiwan```  
 - Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.  
 - Conducted extensive data analysis via MatLab  
 - 
 
 **Undergraduate Research Assistant** ```2012 to 2014```  
-*Wuhan University of Technology* Wuhan, China  
+*Wuhan University of Technology* ```Wuhan, China```  
 - Research on Protective Effect of Guarding Fluid Cabin under Attacking by Explosion Fragments under supervision of Dr. KONG Xiangshao in 2013-2014.
 - 
 - Productive Process Simulation of Shipyard Based on DELMIA under supervision of Prof. ZHENG Shaochun in 2012-2013.
@@ -69,11 +69,12 @@ My current research centres around the Multi-objective Optimization Evolutionary
 ## EXTRA-CURRICULAR ACTIVITIES
 
 **WHUT Student Union**  
-_Vice Prisident_ ```2013-2014```  
+*Vice Prisident* ```2013-2014```  
 - Managed the financial affairs, regulations, meetings and news reporting of Student Union.  
 - Organized and provided services in various campus events such as New Year’s Concert, Welcome Party for the Freshman, Graduation Ceremony, Conferences and Training.  
 - Established the new media department for the Student Union to provide immediate news report on social media platforms.  
-_Officer of News Department_ ```2012-2013```  
+
+*Officer of News Department* ```2012-2013```  
 - Responsible for news reporting and editing, training of new commissioners.  
 - Served as senior editor of WHUT Youth website, responsible for reviewing news.  
 - Spearheaded efforts on website design, article evaluation criteria and social media outreach.
