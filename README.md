@@ -11,7 +11,7 @@ Address: No.1, Sec. 4, Roosevelt Rd., Da'an Dist., Taipei City 106, Taiwan
 **M.S. in Engineering Science and Ocean Engineering, ```2017 - Present```  
 [National Taiwan University (NTU)](http://www.ntu.edu.tw)**  
 Supervisor: Prof. Hsin-Haou Huang  
-*Thesis Topic*: Many and Multi-objective Optimization; Evolutionary Algorithm; Engineering Application
+*Thesis Title*: Pending further discussions in Aug 2018
 
 **B.Eng. in Naval Architecture and Marine Engineering, ```2011 - 2015```  
 [Wuhan University of Technology (WHUT)](http://www.whut.edu.cn)**  
@@ -30,17 +30,20 @@ My current research centres around the Multi-objective Optimization Evolutionary
 ## RESEARCH EXPERIENCE
 
 **Research Assistant** ```Sep 2017 - Present```  
-*National Taiwan University*  ```Taipei, Taiwan```  
+*Structure and Material Lab, National Taiwan University*  ```Taipei, Taiwan```  
 - Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.  
-- Conducted extensive data analysis via MatLab  
-- 
+- Research on development and evaluation of new acoustic metamaterials for underwater vehicle under supervision of Prof.HUANG Hsin-haou funded by MOST of Taiwan.
+- Derived relationships between the design unit size parameters and absorption rates with different materials through published papers.
+- Applied finite element software COMSOL to simulate the underwater sound-absorbing material under different material parameters capacity of sound absorption and absorption bandwidth.  
+- Proposed a novel modified term significantly reducing the errors between the theoretical calculations and numerical simulations.
+- Conducted extensive data analysis via MATLAB and completed final report.
 
 **Undergraduate Research Assistant** ```2012 to 2014```  
-*Wuhan University of Technology* ```Wuhan, China```  
-- Research on Protective Effect of Guarding Fluid Cabin under Attacking by Explosion Fragments under supervision of Dr. KONG Xiangshao in 2013-2014.
-- 
-- Productive Process Simulation of Shipyard Based on DELMIA under supervision of Prof. ZHENG Shaochun in 2012-2013.
-- 
+*School of Transportation, Wuhan University of Technology* ```Wuhan, China```  
+- Research on Protective Effect of Guarding Fluid Cabin under Attacking by Explosion Fragments under supervision of Prof. KONG Xiangshao in 2013-2014.
+- Analysed data and wrote reports based upon results of theoretical calculation and experimentation.
+- Production Process Simulation of Shipyard Based on DELMIA under supervision of Prof. ZHENG Shaochun in 2012-2013.
+- Studied and used Catia for design of parts and prototypes and DELMIA for manufacturing simulation.
 
 ***
 
@@ -85,6 +88,7 @@ My current research centres around the Multi-objective Optimization Evolutionary
 
 - Competent in MATLAB and am also familiar with Python and C for research purposes.  
 - Experience of AutoCAD and SolidWorks; used FEA software Abaqus and COMSOL Multiphysics.  
+- Fabrication high quality fiber reinforcement composites by vacuum infusion method.  
 - Paper/report writing and presentation with Microsoft Office and Endnote.  
 - Language: English(fluent, participated in CET-6 with a score of 511 and IELTS with a s score of 6.5 in 2014).
 
@@ -98,8 +102,8 @@ My current research centres around the Multi-objective Optimization Evolutionary
 
 ## HOBBIES
 
-- I enjoy cycling and was a member of the WHUT Bicycle Club. The latter involved organizing activities, such as long distance riding, for example, I cycled from Chengdu to Lhasa in 2014, which is a great challenge for my perseverance and courage. 
-- I have great interest in photography which is a good way to share perspective and capture a memory forever.
+- I enjoy cycling and was a member of the WHUT Bicycle Club. The latter involved organizing activities, such as long distance riding, for example, I cycled from Chengdu to Lhasa in 2013, which is a great challenge to my perseverance and self-motivation.  
+- I have great interest in photography which is a good way to share perspective and capture a memory forever.  
 - I also enjoy current affairs and traveling.
 
 ***
