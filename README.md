@@ -23,7 +23,7 @@ Supervisor: Prof. Shuangxi Xu
 
 ## RESEARCH INTERESTS
 
-My current research centres around the Multi-objective Optimization Evolutionary Computation and its applications, especially improving the performance of Genetic Algorithms to solve difficult and mutimodal problems.
+My current research centres around the Multi-objective Optimization Evolutionary Computation and its applications, especially improving the performance of Genetic Algorithms to solve difficult and multimodal problems.
 
 ***
 
@@ -32,7 +32,7 @@ My current research centres around the Multi-objective Optimization Evolutionary
 **Research Assistant** ```Sep 2017 - Present```  
 *Structure and Material Lab, National Taiwan University*  ```Taipei, Taiwan```  
 - Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization.  
-- Research on development and evaluation of new acoustic metamaterials for underwater vehicle under supervision of Prof.HUANG Hsin-haou funded by MOST of Taiwan.
+- Research on development and evaluation of new acoustic metamaterials for underwater vehicle under supervision of Prof.HUANG Hsin-Haou funded by MOST of Taiwan.
 - Derived relationships between the design unit size parameters and absorption rates with different materials through published papers.
 - Applied finite element software COMSOL to simulate the underwater sound-absorbing material under different material parameters capacity of sound absorption and absorption bandwidth.  
 - Proposed a novel modified term significantly reducing the errors between the theoretical calculations and numerical simulations.
