@@ -40,7 +40,8 @@ Supervisor: Prof. Shuangxi Xu
 **Undergraduate Research Assistant** ```2012 to 2014```  
 *Wuhan University of Technology* Wuhan, China  
 - 
-
+- 
+- 
 
 ***
 
